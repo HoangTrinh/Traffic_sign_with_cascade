@@ -1,0 +1,6 @@
+in_video QuestionVideo
+out_video output
+format .avi
+n_plates 7 cam_re_trai 1.3 6 mot_chieu 1.25 3 cac_loai_bien_khac 1.25 3 dung 1.25 3 re_phai 1.25 3 re_trai 1.25 3 toc_do_toi_da 1.25 3
+from_frame 1
+to_frame 2000
